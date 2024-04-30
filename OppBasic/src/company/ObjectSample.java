@@ -26,7 +26,7 @@ public class ObjectSample {
         engineer.joinMeeting();
         engineer.developSoftware();
 
- 
+        // 1行空ける
         System.out.println("");
 
         // ポリモーフィズムの確認
